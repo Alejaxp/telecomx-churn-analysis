@@ -1,11 +1,11 @@
 #Análisis de Evasión de Clientes (Churn)
-##📌 Descripción del Proyecto
+##Descripción del Proyecto
 
 Este proyecto tiene como objetivo analizar el fenómeno de evasión de clientes (Churn) en una empresa de servicios de telecomunicaciones.
 
 A través de técnicas de limpieza, transformación y análisis exploratorio de datos (EDA), se identificaron patrones asociados a la cancelación del servicio, con el fin de generar recomendaciones estratégicas orientadas a la retención de clientes.
 
-##🎯 Objetivos
+##Objetivos
 
 Comprender la distribución de la variable Churn.
 
@@ -15,7 +15,7 @@ Detectar perfiles de clientes con mayor riesgo de evasión.
 
 Proponer acciones estratégicas basadas en evidencia.
 
-##🛠️ Tecnologías Utilizadas
+##Tecnologías Utilizadas
 
 Python
 
@@ -27,7 +27,7 @@ Matplotlib
 
 Jupyter Notebook
 
-##📂 Estructura del Proyecto
+##Estructura del Proyecto
 
 El análisis se desarrolló en un notebook estructurado en las siguientes etapas:
 
@@ -55,7 +55,7 @@ Conclusiones e insights
 
 Recomendaciones estratégicas
 
-##📊 Principales Hallazgos
+##Principales Hallazgos
 
 La evasión se concentra principalmente en los primeros meses de contrato.
 
@@ -67,7 +67,7 @@ El servicio de fibra óptica muestra niveles elevados de evasión.
 
 El género no representa un factor determinante en la cancelación.
 
-##👤 Perfil del Cliente con Mayor Riesgo de Churn
+##Perfil del Cliente con Mayor Riesgo de Churn
 
 Cliente con:
 
@@ -79,7 +79,7 @@ Servicio de fibra óptica.
 
 Método de pago no automatizado.
 
-##💡 Recomendaciones Estratégicas
+##Recomendaciones Estratégicas
 
 Implementar programas de fidelización en los primeros meses.
 
